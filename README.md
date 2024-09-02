@@ -5,8 +5,8 @@ desplegarse y escalarse de manera autónoma.
 
 **#Microservicios Principales**
 
-##1. Servicio de Usuarios
-Maneja el registro de usuarios, la autenticación y la gestión de perfiles.
+**##1. Servicio de Usuarios**
+**Maneja el registro de usuarios, la autenticación y la gestión de perfiles.**
 
 **TAREAS**
 1. Registro de nuevos usuarios.
@@ -23,8 +23,8 @@ Función de Usuario: '/api/user/editar/user/{id}' **PUT**
 4. Gestión de contraseñas y recuperación de cuentas.
 Función del Usuario: '/api/user/editar/password/{id}' **PUT**
 
-##2.Servicio de Catálogo de Productos
-Administra la lista de productos, las categorías y el inventario.
+**##2.Servicio de Catálogo de Productos**
+**Administra la lista de productos, las categorías y el inventario.**
 
 
 **TAREAS**
